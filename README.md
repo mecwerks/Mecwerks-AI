@@ -3,6 +3,10 @@ mecwerks-bots
 
 botfiles for Mecwerks-Engine
 
+STATUS
+==============
+Bots currently are not working with the Mecwerks-Engine
+
 To Use
 ==============
 
