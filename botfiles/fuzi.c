@@ -45,74 +45,42 @@ Suite 120, Rockville, Maryland 20850 USA.
 
 weight "weapon_shotgun"
 {
-	switch (INVENTORY_SHOTGUN)
-	{
-		case 1: return WS(W_SG);
-		default: return 1;
-	}
+		return WS(W_SG);
 }
 
 weight "weapon_machinegun"
 {
-        switch (INVENTORY_MACHINEGUN)
-        {
-                case 1: return WS(W_MG);
-                default: return 1;
-        }
+	return WS(W_MG);
 }
 
 weight "weapon_grenadelauncher"
 {
-        switch (INVENTORY_GRENADELAUNCHER)
-        {
-                case 1: return WS(W_GL);
-                default: return 1;
-        }
+	return WS(W_GL);
 }
 
 weight "weapon_rocketlauncher"
 {
-        switch (INVENTORY_ROCKETLAUNCHER)
-        {
-                case 1: return WS(W_RL);
-                default: return 1;
-        }
+	return WS(W_RL);
 }
 
 weight "weapon_lightning"
 {
-        switch (INVENTORY_LIGHTNING)
-        {
-                case 1: return WS(W_LG);
-                default: return 1;
-        }
+	return WS(W_LG);
 }
 
 weight "weapon_railgun"
 {
-        switch (INVENTORY_RAILGUN)
-        {
-                case 1: return WS(W_RG);
-                default: return 1;
-        }
+	return WS(W_RG);
 }
 
 weight "weapon_plasmagun"
 {
-        switch (INVENTORY_PLASMAGUN)
-        {
-                case 1: return WS(W_PG);
-                default: return 1;
-        }
+	return WS(W_PG);
 }
 
 weight "weapon_bfg"
 {
-        switch (INVENTORY_BFG10K)
-        {
-                case 1: return WS(W_BFG);
-                default: return 1;
-        }
+	return WS(W_BFG);
 }
 
 //=============================================
@@ -125,20 +93,12 @@ weight "weapon_bfg"
 
 weight "team_CTF_redflag"
 {
-        switch(INVENTORY_REDFLAG)
-        {
-        	case 1: return FGW;
-        	default: return 300;
-        }
+		return FGW;
 }
 
 weight "team_CTF_blueflag"
 {
-        switch(INVENTORY_BLUEFLAG)
-        {
-        	case 1: return FGW;
-        	default: return 300;
-        }
+		return FGW;
 }
 
 

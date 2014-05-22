@@ -43,3 +43,5 @@ Suite 120, Rockville, Maryland 20850 USA.
 #define W_PG           	80
 
 #define FGW		50
+
+#include "fuzi.c"
