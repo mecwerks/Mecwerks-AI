@@ -39,5 +39,3 @@ Suite 120, Rockville, Maryland 20850 USA.
 #define W_BFG          100
 #define W_LG           80
 #define W_PG           90
-
-#include "fuzw.c"
