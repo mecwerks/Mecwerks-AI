@@ -36,8 +36,6 @@ skill 1
 	BOT_CHAT_NAME	"marcus"
 	BOT_GENDER		"male"
 	
-	BOT_ITEMWEIGHTS		"bots/marcus_i.c"
-	BOT_WEAPONWEIGHTS   "bots/marcus_w.c"
 	BOT_CHAT_FILE       "bots/marcus_t.c"
 	
 	BOT_CHAT_CPM			400
