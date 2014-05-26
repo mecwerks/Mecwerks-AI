@@ -2,9 +2,8 @@
 ===========================================================================
 Copyright (C) 2012-2014 Marcus Collins (mecwerks@gmail.com).
 
-This file is part of Mecwerks Source Code and is based upon Mr. Elusive's 
-fuzzy logic system found in Quake 3 Arena and original re-write by Dmn_clown
-(aka: Bob Isaac (rjisaac@gmail.com)).
+This file is part of Mecwerks Source Code and is based upon code from 
+OpenArena.
 
 Mecwerks Source Code is free software; you can redistribute it
 and/or modify it under the terms of the GNU General Public License as

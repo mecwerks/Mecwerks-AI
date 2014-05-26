@@ -1,6 +1,6 @@
 /*
 ===========================================================================
-Copyright (C) 2012-2013 Marcus Collins (mecwerks@gmail.com).
+Copyright (C) 2012-2014 Marcus Collins (mecwerks@gmail.com).
 
 This file is part of Mecwerks Source Code.
 
