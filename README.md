@@ -11,11 +11,10 @@ To Use
 ==============
 
 Copy the following files from Mecwerks-Logic/code/game 
-into the botfiles directory:
+into the botfiles directory(although they should be already updated):
 
 - chars.h
 - match.h
-- inv.h
 - syn.h
 
 Then run this command from the directory containing this README:
