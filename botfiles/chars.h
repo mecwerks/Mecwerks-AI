@@ -93,13 +93,13 @@ Suite 120, Rockville, Maryland 20850 USA.
 //movement
 //========================================================
 //tendency to crouch
-#define BOT_CROUCHER					22	//float [0, 1]
+#define BOT_CROUCHER					23	//float [0, 1]
 //tendency to jump
-#define BOT_JUMPER						23	//float [0, 1]
+#define BOT_JUMPER						24	//float [0, 1]
 //tendency to walk
-#define BOT_WALKER						24	//float [0, 1]
+#define BOT_WALKER						25	//float [0, 1]
 //tendency to jump using a weapon
-#define BOT_WEAPONJUMPING				25	//float [0, 1]
+#define BOT_WEAPONJUMPING				26	//float [0, 1]
 //========================================================
 //goal
 //========================================================
