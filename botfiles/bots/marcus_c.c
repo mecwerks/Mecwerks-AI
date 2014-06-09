@@ -36,7 +36,7 @@ skill 1
 	BOT_CHAT_NAME	"marcus"
 	BOT_GENDER		"male"
 	
-	BOT_CHAT_FILE       "bots/marcus_t.c"
+	BOT_CHAT_FILE       "bots/default_t.c"
 	
 	BOT_CHAT_CPM			400
 	BOT_CHAT_INSULT			0.50
